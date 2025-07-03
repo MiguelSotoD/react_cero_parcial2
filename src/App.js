@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          JUAN PÉREZ SOSA  - EXAMEN PARCIAL 2
+          JOSE MIGUEL STO  - EXAMEN PARCIAL 2
         </p>
         <a
           className="App-link"
-          href="https:www.utd.edu.mx"
+          href="https://utd.edu.mx/"
           target="_blank"
           rel="noopener noreferrer"
         >
